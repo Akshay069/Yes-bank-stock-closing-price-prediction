@@ -21,6 +21,7 @@ Below steps has followed.
   3. Lasso Regression
   4. K Nearest Neighbours (KNN)
   5. XG-Boost
+  
 Compared model performance using different evaluation metrics in order to get the best performing model.
 
 Model Evaluation
